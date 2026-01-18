@@ -1,4 +1,3 @@
-# -phase4-flask-blog-
 # Phase 4 Flask Blog
 
 This repository contains the source code for a full-stack web application built with Flask. It demonstrates the best practices discussed in my blog post: **"From Code to Production: Best Practices for Full-Stack Web Apps"**.
